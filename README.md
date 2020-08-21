@@ -5,7 +5,8 @@ Python Based Application to Store Passwords | Pins | Username
 
 - [Requirements](#requirements)
 - [Screenshot](#screenshot)
-- [How to Run](#How to Run)
+- [HowToRun](#howToRun)
+- [Password](#Password)
 
 
 
@@ -26,12 +27,18 @@ Python Based Application to Store Passwords | Pins | Username
     
 Tip : Run the File First if an error occurs try installing the Requirements
 
-## How to Run : 
+## HowToRun : 
 
 #### On linux/windows/mac
 ```sh
 python3 main.py
 ```
+# Password
+```sh
+1234
+```
+
+
 ## Screenshot
 
 ![image](https://raw.githubusercontent.com/Packman-lab/Password-Manager/master/Screenshots/Image_1.png)
