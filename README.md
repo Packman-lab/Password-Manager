@@ -29,10 +29,15 @@ Tip : Run the File First if an error occurs try installing the Requirements
 
 ## HowToRun : 
 
-#### On linux/windows/mac
+#### On linux/mac
 ```sh
 python3 main.py
 ```
+#### On windows
+```sh
+python main.py
+```
+
 # Password
 ```sh
 1234
